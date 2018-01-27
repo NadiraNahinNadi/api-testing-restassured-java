@@ -1,1 +1,0 @@
-# api-testing-restassured-java
